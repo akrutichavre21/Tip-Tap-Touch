@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TipTap</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_activity_level2">Level2</string>
+    <string name="title_activity_level3">Level3</string>
+    <string name="title_activity_about__us">About_Us</string>
+    <string name="title_activity_information">Information</string>
+    <string name="title_activity_instruction">Instruction</string>
+    <string name="title_activity_tip__tap__touch">Tip_Tap_Touch</string>
+
+</resources>
